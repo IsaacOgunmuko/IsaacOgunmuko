@@ -1,6 +1,6 @@
 <h1>Isaac Ogunmuko</h1>
 
-Hello there! My name is Dylan Heslop, a computer science major at <b>Lehman College</b> and I am currently taking Full Stack Web Development and learning HTML, CSS, and JavaScript. I have been learning Java since Programming Methods courses, taking Data Structure and learning more Java, and will be learning Python and C++.
+Hello there! My name is Isaac Ogunmuko, a computer science major at <b>Lehman College</b> and I am currently taking Full Stack Web Development and learning HTML, CSS, and JavaScript. I have been learning Java since Programming Methods courses, taking Data Structure and learning more Java, and will be learning Python and C++.
 
 <!--
 **MrIsac/MrIsac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
