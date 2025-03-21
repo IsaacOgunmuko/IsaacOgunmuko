@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Coding Languages
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,css,python,cpp,html,js)](https://skillicons.dev)
 ## Tools and Utilities
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 
