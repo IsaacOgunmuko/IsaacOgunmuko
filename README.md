@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## Tools and Utilities
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 
-<a href = "https://www.linkedin.com/in/isaac-ogunmuko-a64b87335/" /> <imag src = "https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" />
 
 
-## Connect with me 
+
+## Want to Connect with me 
 <a href = "https://www.linkedin.com/in/isaac-ogunmuko-a64b87335/" /> <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="linkedin" width="40" height="40"/> </a> </p>
 
